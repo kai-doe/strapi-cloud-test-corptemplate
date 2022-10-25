@@ -1,0 +1,91 @@
+{
+"pages": [
+	{
+		"id" : 1,
+		"short_name" : "Home",
+		"slug" : "",
+		"created_at" : 1666722216273,
+		"updated_at" : 1666722216273,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "en"
+	},
+	{
+		"id" : 2,
+		"short_name" : "Pricing",
+		"slug" : "pricing",
+		"created_at" : 1666722211157,
+		"updated_at" : 1666722211157,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "en"
+	},
+	{
+		"id" : 3,
+		"short_name" : "Secret",
+		"slug" : "secret",
+		"created_at" : 1666722210875,
+		"updated_at" : 1666722210875,
+		"published_at" : null,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "en"
+	},
+	{
+		"id" : 4,
+		"short_name" : "Contact",
+		"slug" : "contact",
+		"created_at" : 1666722211062,
+		"updated_at" : 1666722211062,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "en"
+	},
+	{
+		"id" : 5,
+		"short_name" : "Home",
+		"slug" : "",
+		"created_at" : 1666722215823,
+		"updated_at" : 1666722215823,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "fr"
+	},
+	{
+		"id" : 6,
+		"short_name" : "Pricing",
+		"slug" : "pricing",
+		"created_at" : 1666722211182,
+		"updated_at" : 1666722211182,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "fr"
+	},
+	{
+		"id" : 7,
+		"short_name" : "Secret",
+		"slug" : "secret",
+		"created_at" : 1666722210890,
+		"updated_at" : 1666722210890,
+		"published_at" : null,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "fr"
+	},
+	{
+		"id" : 8,
+		"short_name" : "Contact",
+		"slug" : "contact",
+		"created_at" : 1666722211088,
+		"updated_at" : 1666722211088,
+		"published_at" : 1634890315490,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "fr"
+	}
+]}

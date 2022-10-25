@@ -1,0 +1,73 @@
+{
+"components_meta_metadata": [
+	{
+		"id" : 1,
+		"meta_title" : "Strapi starter for Corporate Sites",
+		"meta_description" : "Build your corporate site with Strapi",
+		"twitter_card_type" : "summary",
+		"twitter_username" : "strapijs"
+	},
+	{
+		"id" : 2,
+		"meta_title" : "Strapi corporate site starter",
+		"meta_description" : "Build a fully editable site with Strapi",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 3,
+		"meta_title" : "Pricing",
+		"meta_description" : "The different plans",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 4,
+		"meta_title" : "Contact",
+		"meta_description" : "Get in touch with our team",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 5,
+		"meta_title" : "Strapi starter for Corporate Sites",
+		"meta_description" : "Créer votre site corporate avec Strapi",
+		"twitter_card_type" : "summary",
+		"twitter_username" : "strapijs"
+	},
+	{
+		"id" : 6,
+		"meta_title" : "Strapi corporate site starter",
+		"meta_description" : "Construire un site modifiable avec Strapi",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 7,
+		"meta_title" : "Secret page",
+		"meta_description" : "Preview-only page",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 8,
+		"meta_title" : "Pricing",
+		"meta_description" : "Les différentes offres",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 9,
+		"meta_title" : "Page secrète",
+		"meta_description" : "Preview-only page",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	},
+	{
+		"id" : 10,
+		"meta_title" : "Nous Contacter",
+		"meta_description" : "Contactez notre équipe",
+		"twitter_card_type" : "summary",
+		"twitter_username" : null
+	}
+]}

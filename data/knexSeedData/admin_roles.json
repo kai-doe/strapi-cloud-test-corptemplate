@@ -1,0 +1,33 @@
+{
+"admin_roles": [
+	{
+		"id" : 1,
+		"name" : "Super Admin",
+		"code" : "strapi-super-admin",
+		"description" : "Super Admins can access and manage all features and settings.",
+		"created_at" : 1666722210649,
+		"updated_at" : 1666722210649,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Editor",
+		"code" : "strapi-editor",
+		"description" : "Editors can manage and publish contents including those of other users.",
+		"created_at" : 1666722210995,
+		"updated_at" : 1666722210995,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	},
+	{
+		"id" : 3,
+		"name" : "Author",
+		"code" : "strapi-author",
+		"description" : "Authors can manage the content they have created.",
+		"created_at" : 1666722211132,
+		"updated_at" : 1666722211132,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	}
+]}

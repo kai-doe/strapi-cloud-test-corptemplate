@@ -1,0 +1,33 @@
+{
+"components_slices_feature_columns": [
+	{
+		"id" : 1,
+		"title" : "Preview your changes",
+		"description" : "Thanks to an integrated Preview Mode, you can visualize your pages before publishing them."
+	},
+	{
+		"id" : 2,
+		"title" : "Fully responsive",
+		"description" : "This starter works well on all screens, whether it's mobile, tablet or desktop."
+	},
+	{
+		"id" : 3,
+		"title" : "Easy to customize",
+		"description" : "We use Tailwind for styling. You can change your site's theme without digging through the code."
+	},
+	{
+		"id" : 4,
+		"title" : "Visualisez vos changments",
+		"description" : "Grace à un mode preview, vous pouvez voir vos pages avant de les publier."
+	},
+	{
+		"id" : 5,
+		"title" : "100% responsive",
+		"description" : "Ce starter marche sur toutes les tailles d'écrans."
+	},
+	{
+		"id" : 6,
+		"title" : "Facile à personnaliser",
+		"description" : "On utilise Tailwind pour les styles. Vous pouvez changez le thème de votre site sans avoir besoin d'aller dans le code."
+	}
+]}

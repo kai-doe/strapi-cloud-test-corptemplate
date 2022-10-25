@@ -1,0 +1,35 @@
+{
+"components_links_footer_sections": [
+	{
+		"id" : 1,
+		"title" : "Product"
+	},
+	{
+		"id" : 2,
+		"title" : "Legal"
+	},
+	{
+		"id" : 3,
+		"title" : "Produit"
+	},
+	{
+		"id" : 4,
+		"title" : "Légal"
+	},
+	{
+		"id" : 5,
+		"title" : "Company"
+	},
+	{
+		"id" : 6,
+		"title" : "Entreprise"
+	},
+	{
+		"id" : 7,
+		"title" : "Social"
+	},
+	{
+		"id" : 8,
+		"title" : "Réseaux sociaux"
+	}
+]}

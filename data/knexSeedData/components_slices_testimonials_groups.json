@@ -1,0 +1,13 @@
+{
+"components_slices_testimonials_groups": [
+	{
+		"id" : 1,
+		"title" : "Your customer testimonials here",
+		"description" : "This section is where you can showcase your customers. Insert quotes, and show the logos of companies who like your product"
+	},
+	{
+		"id" : 2,
+		"title" : "Ici, les témoignages des vos clients.",
+		"description" : "Dans cette partie, vous pouvez mettre en avant vos clients.  Mettez des citations, et montrez les logos des entreprises qui aiment votre produit."
+	}
+]}

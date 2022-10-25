@@ -1,0 +1,11 @@
+{
+"components_sections_pricings": [
+	{
+		"id" : 1,
+		"title" : "Clear pricing table"
+	},
+	{
+		"id" : 2,
+		"title" : "Tableau de tarifs"
+	}
+]}

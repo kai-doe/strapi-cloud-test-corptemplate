@@ -1,0 +1,27 @@
+{
+"components_elements_logos": [
+	{
+		"id" : 1,
+		"title" : "Strapi"
+	},
+	{
+		"id" : 2,
+		"title" : "Strapi 2"
+	},
+	{
+		"id" : 3,
+		"title" : "Strapi 3"
+	},
+	{
+		"id" : 4,
+		"title" : "Strapi"
+	},
+	{
+		"id" : 5,
+		"title" : "Strapi 2"
+	},
+	{
+		"id" : 6,
+		"title" : "Strapi 3"
+	}
+]}

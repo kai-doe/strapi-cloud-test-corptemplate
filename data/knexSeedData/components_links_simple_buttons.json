@@ -1,0 +1,13 @@
+{
+"components_links_simple_buttons": [
+	{
+		"id" : 1,
+		"text" : "Subscribe",
+		"type" : "primary"
+	},
+	{
+		"id" : 2,
+		"text" : "S'inscrire",
+		"type" : "primary"
+	}
+]}

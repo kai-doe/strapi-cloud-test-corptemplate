@@ -1,0 +1,11 @@
+{
+"components_layout_footers": [
+	{
+		"id" : 1,
+		"small_text" : "© Copyright My Company™"
+	},
+	{
+		"id" : 2,
+		"small_text" : "© Copyright Mon Entreprise™"
+	}
+]}

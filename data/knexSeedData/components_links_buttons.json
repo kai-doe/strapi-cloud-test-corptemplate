@@ -1,0 +1,101 @@
+{
+"components_links_buttons": [
+	{
+		"id" : 1,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Send an email",
+		"type" : "primary"
+	},
+	{
+		"id" : 2,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "Get started",
+		"type" : "primary"
+	},
+	{
+		"id" : 3,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "DM us on Twitter",
+		"type" : "secondary"
+	},
+	{
+		"id" : 4,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 1,
+		"text" : "See the code",
+		"type" : "secondary"
+	},
+	{
+		"id" : 5,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "Commencer",
+		"type" : "primary"
+	},
+	{
+		"id" : 6,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 1,
+		"text" : "Voir le code",
+		"type" : "secondary"
+	},
+	{
+		"id" : 7,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "Get started",
+		"type" : "primary"
+	},
+	{
+		"id" : 8,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "See the code",
+		"type" : "secondary"
+	},
+	{
+		"id" : 9,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Envoyer un mail",
+		"type" : "primary"
+	},
+	{
+		"id" : 10,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "Commencer",
+		"type" : "primary"
+	},
+	{
+		"id" : 11,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "DM nous sur Twitter",
+		"type" : "secondary"
+	},
+	{
+		"id" : 12,
+		"url" : "https:\/\/github.com\/strapi\/strapi-template-corporate",
+		"new_tab" : 0,
+		"text" : "Voir le code",
+		"type" : "secondary"
+	},
+	{
+		"id" : 13,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Sign up",
+		"type" : "secondary"
+	},
+	{
+		"id" : 14,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "S'inscrire",
+		"type" : "secondary"
+	}
+]}

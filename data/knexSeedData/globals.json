@@ -1,0 +1,21 @@
+{
+"globals": [
+	{
+		"id" : 1,
+		"meta_title_suffix" : "Strapi Corporate",
+		"created_at" : 1666722214582,
+		"updated_at" : 1666722214582,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "en"
+	},
+	{
+		"id" : 2,
+		"meta_title_suffix" : "Strapi Corporate",
+		"created_at" : 1666722214219,
+		"updated_at" : 1666722214219,
+		"created_by_id" : null,
+		"updated_by_id" : null,
+		"locale" : "fr"
+	}
+]}

@@ -1,0 +1,17 @@
+{
+"components_slices_heroes": [
+	{
+		"id" : 1,
+		"title" : "The best way to build your Corporate Site",
+		"label" : "New Strapi starter",
+		"description" : "Get started with your Strapi business website in seconds.",
+		"small_text_with_link" : "Want to build your own from scratch? Tutorial coming soon"
+	},
+	{
+		"id" : 2,
+		"title" : "La meilleure façon de faire votre site Corporate",
+		"label" : "Nouveau starter Strapi",
+		"description" : "Commencer vite avec votre site corporate",
+		"small_text_with_link" : "Vous voulez construire votre propre starter? Guide à venir"
+	}
+]}

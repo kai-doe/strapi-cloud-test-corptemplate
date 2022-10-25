@@ -1,0 +1,23 @@
+{
+"up_roles": [
+	{
+		"id" : 1,
+		"name" : "Authenticated",
+		"description" : "Default role given to authenticated user.",
+		"type" : "authenticated",
+		"created_at" : 1666722210262,
+		"updated_at" : 1666722210262,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	},
+	{
+		"id" : 2,
+		"name" : "Public",
+		"description" : "Default role given to unauthenticated user.",
+		"type" : "public",
+		"created_at" : 1666722210270,
+		"updated_at" : 1666722210270,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	}
+]}

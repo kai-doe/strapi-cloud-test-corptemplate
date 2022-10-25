@@ -1,0 +1,51 @@
+{
+"components_slices_feature_columns_groups_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 4,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 2,
+		"component_id" : 5,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 2
+	},
+	{
+		"id" : 3,
+		"entity_id" : 2,
+		"component_id" : 6,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 3
+	},
+	{
+		"id" : 4,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 1
+	},
+	{
+		"id" : 5,
+		"entity_id" : 1,
+		"component_id" : 2,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 2
+	},
+	{
+		"id" : 6,
+		"entity_id" : 1,
+		"component_id" : 3,
+		"component_type" : "elements.feature-column",
+		"field" : "features",
+		"order" : 3
+	}
+]}

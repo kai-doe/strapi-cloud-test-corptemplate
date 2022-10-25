@@ -1,0 +1,19 @@
+{
+"components_sections_lead_forms_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 2,
+		"component_type" : "links.button",
+		"field" : "submitButton",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "links.button",
+		"field" : "submitButton",
+		"order" : 1
+	}
+]}

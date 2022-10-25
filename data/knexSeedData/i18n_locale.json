@@ -1,0 +1,30 @@
+{
+"i18n_locale": [
+	{
+		"id" : 1,
+		"name" : "English (en)",
+		"code" : "en",
+		"created_at" : 1666722210162,
+		"updated_at" : 1666722210162,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	},
+	{
+		"id" : 2,
+		"name" : "French (fr)",
+		"code" : "fr",
+		"created_at" : 1666722210511,
+		"updated_at" : 1666722210511,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	},
+	{
+		"id" : 3,
+		"name" : "French (fr)",
+		"code" : "fr",
+		"created_at" : 1666722292371,
+		"updated_at" : 1666722292371,
+		"created_by_id" : null,
+		"updated_by_id" : null
+	}
+]}

@@ -1,0 +1,51 @@
+{
+"components_layout_navbars_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 4,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 2,
+		"component_id" : 5,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 3,
+		"entity_id" : 2,
+		"component_id" : 14,
+		"component_type" : "links.button-link",
+		"field" : "button",
+		"order" : 1
+	},
+	{
+		"id" : 4,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 5,
+		"entity_id" : 1,
+		"component_id" : 3,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 6,
+		"entity_id" : 1,
+		"component_id" : 13,
+		"component_type" : "links.button-link",
+		"field" : "button",
+		"order" : 1
+	}
+]}

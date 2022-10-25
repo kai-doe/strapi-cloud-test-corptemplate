@@ -1,0 +1,67 @@
+{
+"components_layout_footers_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 3,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 2,
+		"component_id" : 4,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 2
+	},
+	{
+		"id" : 3,
+		"entity_id" : 2,
+		"component_id" : 6,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 3
+	},
+	{
+		"id" : 4,
+		"entity_id" : 2,
+		"component_id" : 8,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 4
+	},
+	{
+		"id" : 5,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 1
+	},
+	{
+		"id" : 6,
+		"entity_id" : 1,
+		"component_id" : 2,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 2
+	},
+	{
+		"id" : 7,
+		"entity_id" : 1,
+		"component_id" : 5,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 3
+	},
+	{
+		"id" : 8,
+		"entity_id" : 1,
+		"component_id" : 7,
+		"component_type" : "elements.footer-section",
+		"field" : "columns",
+		"order" : 4
+	}
+]}

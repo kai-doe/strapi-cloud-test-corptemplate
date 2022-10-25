@@ -1,0 +1,35 @@
+{
+"components_slices_heroes_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 5,
+		"component_type" : "links.button-link",
+		"field" : "buttons",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 2,
+		"component_id" : 6,
+		"component_type" : "links.button-link",
+		"field" : "buttons",
+		"order" : 2
+	},
+	{
+		"id" : 3,
+		"entity_id" : 1,
+		"component_id" : 2,
+		"component_type" : "links.button-link",
+		"field" : "buttons",
+		"order" : 1
+	},
+	{
+		"id" : 4,
+		"entity_id" : 1,
+		"component_id" : 4,
+		"component_type" : "links.button-link",
+		"field" : "buttons",
+		"order" : 2
+	}
+]}

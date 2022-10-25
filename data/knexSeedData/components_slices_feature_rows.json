@@ -1,0 +1,23 @@
+{
+"components_slices_feature_rows": [
+	{
+		"id" : 1,
+		"title" : "Let marketing teams build their pages",
+		"description" : "Thanks to a pre-built list of UI sections, marketers can design exactly the pages they want."
+	},
+	{
+		"id" : 2,
+		"title" : "Leave your developers alone",
+		"description" : "You can publish, edit and delete pages without help from developers. Your technical team can finally focus on their tasks."
+	},
+	{
+		"id" : 3,
+		"title" : "Les équipes marketing peuvent maintenant faire leurs propres pages",
+		"description" : "Grace à une liste pré-construite de blocs UI, les équipes marketing peuvent faire la mise en page exactement comme elles veulent"
+	},
+	{
+		"id" : 4,
+		"title" : "Laissez vos développeurs tranquilles",
+		"description" : "Vous pouvez publier, modifier, et supprimer des pages sans l'aide d'un développeur.  Votre équipe technique peut enfin se concentrer sur d'autre tâches."
+	}
+]}

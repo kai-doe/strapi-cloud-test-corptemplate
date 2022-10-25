@@ -1,0 +1,35 @@
+{
+"components_slices_feature_rows_components": [
+	{
+		"id" : 1,
+		"entity_id" : 3,
+		"component_id" : 9,
+		"component_type" : "links.link",
+		"field" : "link",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 4,
+		"component_id" : 10,
+		"component_type" : "links.link",
+		"field" : "link",
+		"order" : 1
+	},
+	{
+		"id" : 3,
+		"entity_id" : 1,
+		"component_id" : 7,
+		"component_type" : "links.link",
+		"field" : "link",
+		"order" : 1
+	},
+	{
+		"id" : 4,
+		"entity_id" : 2,
+		"component_id" : 8,
+		"component_type" : "links.link",
+		"field" : "link",
+		"order" : 1
+	}
+]}

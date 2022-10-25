@@ -1,0 +1,51 @@
+{
+"components_elements_plans": [
+	{
+		"id" : 1,
+		"name" : "Hobby",
+		"description" : "Perfect for side projects",
+		"is_recommended" : null,
+		"price" : 0.0,
+		"price_period" : "forever"
+	},
+	{
+		"id" : 2,
+		"name" : "Premium",
+		"description" : "A more advanced plan for SMBs",
+		"is_recommended" : 1,
+		"price" : 20.0,
+		"price_period" : "per month"
+	},
+	{
+		"id" : 3,
+		"name" : "Enterprise",
+		"description" : "For large companies needs",
+		"is_recommended" : null,
+		"price" : 299.0,
+		"price_period" : "per month"
+	},
+	{
+		"id" : 4,
+		"name" : "Hobby",
+		"description" : "Parfait pour des projets personnels",
+		"is_recommended" : null,
+		"price" : 0.0,
+		"price_period" : "toujours"
+	},
+	{
+		"id" : 5,
+		"name" : "Premium",
+		"description" : "Un plan plus avancé",
+		"is_recommended" : 1,
+		"price" : 20.0,
+		"price_period" : "par mois"
+	},
+	{
+		"id" : 6,
+		"name" : "Entreprise",
+		"description" : "Pour les besoin des grands entreprises",
+		"is_recommended" : null,
+		"price" : 299.0,
+		"price_period" : "par mois"
+	}
+]}

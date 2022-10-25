@@ -1,0 +1,15 @@
+{
+"components_sections_lead_forms": [
+	{
+		"id" : 1,
+		"title" : "Subscribe To Our Newsletter",
+		"email_placeholder" : "email@company.com",
+		"location" : "Home Page Bottom"
+	},
+	{
+		"id" : 2,
+		"title" : "S'inscrire à notre Newsletter",
+		"email_placeholder" : "email@company.com",
+		"location" : "Home Page Bottom"
+	}
+]}

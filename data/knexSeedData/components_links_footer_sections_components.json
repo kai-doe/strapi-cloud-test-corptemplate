@@ -1,0 +1,131 @@
+{
+"components_links_footer_sections_components": [
+	{
+		"id" : 1,
+		"entity_id" : 3,
+		"component_id" : 12,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 3,
+		"component_id" : 14,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 3,
+		"entity_id" : 4,
+		"component_id" : 17,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 4,
+		"entity_id" : 4,
+		"component_id" : 19,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 5,
+		"entity_id" : 6,
+		"component_id" : 20,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 6,
+		"entity_id" : 6,
+		"component_id" : 22,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 7,
+		"entity_id" : 8,
+		"component_id" : 23,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 8,
+		"entity_id" : 8,
+		"component_id" : 26,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 9,
+		"entity_id" : 1,
+		"component_id" : 11,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 10,
+		"entity_id" : 1,
+		"component_id" : 13,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 11,
+		"entity_id" : 2,
+		"component_id" : 15,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 12,
+		"entity_id" : 2,
+		"component_id" : 16,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 13,
+		"entity_id" : 5,
+		"component_id" : 18,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 14,
+		"entity_id" : 5,
+		"component_id" : 21,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	},
+	{
+		"id" : 15,
+		"entity_id" : 7,
+		"component_id" : 24,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 1
+	},
+	{
+		"id" : 16,
+		"entity_id" : 7,
+		"component_id" : 25,
+		"component_type" : "links.link",
+		"field" : "links",
+		"order" : 2
+	}
+]}

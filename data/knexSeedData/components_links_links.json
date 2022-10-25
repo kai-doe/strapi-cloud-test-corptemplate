@@ -1,0 +1,159 @@
+{
+"components_links_links": [
+	{
+		"id" : 1,
+		"url" : "\/pricing",
+		"new_tab" : 0,
+		"text" : "Pricing"
+	},
+	{
+		"id" : 2,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "All testimonials"
+	},
+	{
+		"id" : 3,
+		"url" : "\/contact",
+		"new_tab" : 0,
+		"text" : "Contact"
+	},
+	{
+		"id" : 4,
+		"url" : "\/pricing",
+		"new_tab" : 0,
+		"text" : "tarifs"
+	},
+	{
+		"id" : 5,
+		"url" : "\/contact",
+		"new_tab" : 0,
+		"text" : "nous contacter"
+	},
+	{
+		"id" : 6,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "All testimonials"
+	},
+	{
+		"id" : 7,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "View the list of UI sections"
+	},
+	{
+		"id" : 8,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "View how to create a page"
+	},
+	{
+		"id" : 9,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Voir la liste de blocs UI"
+	},
+	{
+		"id" : 10,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Voir comment créer une page"
+	},
+	{
+		"id" : 11,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Features"
+	},
+	{
+		"id" : 12,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Fonctionnalités"
+	},
+	{
+		"id" : 13,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Sign up"
+	},
+	{
+		"id" : 14,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "S'inscrire"
+	},
+	{
+		"id" : 15,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Privacy policy"
+	},
+	{
+		"id" : 16,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Terms & conditions"
+	},
+	{
+		"id" : 17,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Confidentialité"
+	},
+	{
+		"id" : 18,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Careers"
+	},
+	{
+		"id" : 19,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Mentions légales"
+	},
+	{
+		"id" : 20,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Nous rejoindre"
+	},
+	{
+		"id" : 21,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Team"
+	},
+	{
+		"id" : 22,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "L'équipe"
+	},
+	{
+		"id" : 23,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Twitter"
+	},
+	{
+		"id" : 24,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "Twitter"
+	},
+	{
+		"id" : 25,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "LinkedIn"
+	},
+	{
+		"id" : 26,
+		"url" : "#",
+		"new_tab" : 0,
+		"text" : "LinkedIn"
+	}
+]}

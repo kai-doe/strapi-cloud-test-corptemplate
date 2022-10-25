@@ -1,0 +1,67 @@
+{
+"globals_components": [
+	{
+		"id" : 1,
+		"entity_id" : 2,
+		"component_id" : 5,
+		"component_type" : "meta.metadata",
+		"field" : "metadata",
+		"order" : 1
+	},
+	{
+		"id" : 2,
+		"entity_id" : 2,
+		"component_id" : 2,
+		"component_type" : "elements.notification-banner",
+		"field" : "notificationBanner",
+		"order" : 1
+	},
+	{
+		"id" : 3,
+		"entity_id" : 2,
+		"component_id" : 2,
+		"component_type" : "layout.navbar",
+		"field" : "navbar",
+		"order" : 1
+	},
+	{
+		"id" : 4,
+		"entity_id" : 2,
+		"component_id" : 2,
+		"component_type" : "layout.footer",
+		"field" : "footer",
+		"order" : 1
+	},
+	{
+		"id" : 5,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "meta.metadata",
+		"field" : "metadata",
+		"order" : 1
+	},
+	{
+		"id" : 6,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "elements.notification-banner",
+		"field" : "notificationBanner",
+		"order" : 1
+	},
+	{
+		"id" : 7,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "layout.navbar",
+		"field" : "navbar",
+		"order" : 1
+	},
+	{
+		"id" : 8,
+		"entity_id" : 1,
+		"component_id" : 1,
+		"component_type" : "layout.footer",
+		"field" : "footer",
+		"order" : 1
+	}
+]}

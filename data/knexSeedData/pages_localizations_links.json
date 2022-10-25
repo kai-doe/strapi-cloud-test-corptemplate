@@ -1,0 +1,38 @@
+{
+"pages_localizations_links": [
+	{
+		"id" : 1,
+		"page_id" : 3,
+		"inv_page_id" : 7
+	},
+	{
+		"id" : 2,
+		"page_id" : 7,
+		"inv_page_id" : 3
+	},
+	{
+		"id" : 3,
+		"page_id" : 4,
+		"inv_page_id" : 8
+	},
+	{
+		"id" : 4,
+		"page_id" : 8,
+		"inv_page_id" : 4
+	},
+	{
+		"id" : 5,
+		"page_id" : 2,
+		"inv_page_id" : 6
+	},
+	{
+		"id" : 6,
+		"page_id" : 6,
+		"inv_page_id" : 2
+	},
+	{
+		"id" : 7,
+		"page_id" : 1,
+		"inv_page_id" : 5
+	}
+]}

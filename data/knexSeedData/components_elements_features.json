@@ -1,0 +1,75 @@
+{
+"components_elements_features": [
+	{
+		"id" : 1,
+		"name" : "A cool feature"
+	},
+	{
+		"id" : 2,
+		"name" : "Another cool feature"
+	},
+	{
+		"id" : 3,
+		"name" : "Some other cool feature"
+	},
+	{
+		"id" : 4,
+		"name" : "The coolest feature"
+	},
+	{
+		"id" : 5,
+		"name" : "Nice feature"
+	},
+	{
+		"id" : 6,
+		"name" : "Fun feature"
+	},
+	{
+		"id" : 7,
+		"name" : "Amazing feature"
+	},
+	{
+		"id" : 8,
+		"name" : "Wow effect feature"
+	},
+	{
+		"id" : 9,
+		"name" : "Mesmerizing feature"
+	},
+	{
+		"id" : 10,
+		"name" : "Voilà une feature"
+	},
+	{
+		"id" : 11,
+		"name" : "Une autre"
+	},
+	{
+		"id" : 12,
+		"name" : "Encore une autre"
+	},
+	{
+		"id" : 13,
+		"name" : "Fonctionnalité 1"
+	},
+	{
+		"id" : 14,
+		"name" : "Fonctionnalité 2"
+	},
+	{
+		"id" : 15,
+		"name" : "Fonctionnalité 3"
+	},
+	{
+		"id" : 16,
+		"name" : "Fonctionnalité 1"
+	},
+	{
+		"id" : 17,
+		"name" : "Fonctionnalité 2"
+	},
+	{
+		"id" : 18,
+		"name" : "Fonctionnalité 3"
+	}
+]}
