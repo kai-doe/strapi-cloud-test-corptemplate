@@ -1,0 +1,1 @@
+# strapi-cloud-test-corptemplate
