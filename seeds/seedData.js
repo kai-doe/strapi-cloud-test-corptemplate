@@ -10,9 +10,9 @@ exports.seed = async function(knex) {
   let tables = []
   // Disables Knex Foreign Key Constraints and fetches table names
   const dbClient = await knex.context.client.config.client;
-  if (dbClient === 'sqlite') {
+  if (dbClient === 'better-sqlite3' || dbClient === 'sqlite') {
     await knex.raw('PRAGMA foreign_keys = OFF');
-    tables = await knex.raw('SELECT name FROM sqlite_master WHERE type="table"');
+    tables = await knex.raw('SELECT name FROM sqlite_master where type=\'table\'');
   } else if (dbclient === 'mysql') {
     // do something
   } else if (dbclient === 'pg') {
@@ -48,7 +48,7 @@ exports.seed = async function(knex) {
   }
 
   // Enables Knex Foreign Key Constraints
-  if (dbClient === 'sqlite') {
+  if (dbClient === 'better-sqlite3' || dbClient === 'sqlite') {
     await knex.raw('PRAGMA foreign_keys = ON');
   } else if (dbclient === 'mysql') {
     // do something

@@ -14,6 +14,11 @@ const fetchConfiguration = async () => {
 
 module.exports = async () => {
   const configuration = await fetchConfiguration();
+
+  if (configuration.client === 'sqlite') {
+    configuration.client = 'better-sqlite3';
+  }
+
   return {
     ...configuration,
     migrations: {},
