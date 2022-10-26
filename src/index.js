@@ -21,14 +21,14 @@ module.exports = {
 
     const hasRun = await isFirstRun();
 
-    if (hasRun === true || hasRun === false) {
+    if (hasRun === true && !process.env.DISABLE_MIGRATIONS) {
       try {
         await knex.seed.run();
       } catch (error) {
         console.error(error);
       }
     } else {
-      console.log("Setup has already run");
+      console.log("Setup has already run or is disabled");
     }
   },
 };

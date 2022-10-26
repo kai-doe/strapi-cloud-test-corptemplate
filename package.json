@@ -5,7 +5,8 @@
     "@strapi/plugin-users-permissions": "4.4.5",
     "@strapi/strapi": "4.4.5",
     "better-sqlite3": "7.4.6",
-    "lodash.set": "^4.3.2"
+    "lodash.set": "^4.3.2",
+    "pg": "^8.8.0"
   },
   "name": "corp-template",
   "private": true,
